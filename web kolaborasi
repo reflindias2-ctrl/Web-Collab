@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="css/lampuhias">
+  <title>Produk Jam Motherboard</title>
+  <link rel="stylesheet" href="../Latihan proyek Kolaborasi/img kolaborasi/lampu hias.jpg">
+  <link rel="stylesheet" href="../assets/css/footer-modern.css">
+</head>
+<body>
+   <nav class="nav">
+    <div class="logo">
+      <img src="../Latihan proyek Kolaborasi/img kolaborasi/recycle logo.jpg" alt="Logo" class="logo-img">
+      <div style="font-size:15px" onclick="window.location.href='index.html'">Bekas Jadi Berkelas</div>
+    </div>
+
+    <div class="nav-links">
+      <a href="../Latihan proyek Kolaborasi/index.html">Beranda</a>
+      <a href="#kontak">Kontak</a>
+    </div>
+
+    <div class="hamburger" id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <div class="nav-dropdown" id="navDropdown">
+      <a href="../index.html">Beranda</a>
+      <a href="#kontak">Kontak</a>
+    </div>
+  </nav>
+
+    <div class="container">
+    <h1 class="title">Lampu Hias dari Botol Plastik</h1>
+    <img src="../Latihan proyek Kolaborasi/img kolaborasi/lampu hias.jpg" class="jam-img" alt="Lampu Hias dari Botol Plastik">
+    <main class="product-content">
+      <section class="pc-intro"><span class="pc-eyebrow">Produk Daur Ulang dari Plastik</span>
+        <h2>Barang tak terpakai menjadi hiasan yang cantik</h2>
+        <p>
+          Lampu hias dari botol plastik bekas merupakan proyek yang memanfaatkan plastik bekas menjadi hiasan berbentuk bunga yang dipadukan dengan lampu LED. Botol plastik dipotong dan dibentuk menyerupai kelopak bunga, kemudian dicat dan disusun pada penyangga lampu. Produk ini dapat digunakan sebagai dekorasi ruangan karena menghasilkan tampilan yang menarik. Kelebihannya adalah dapat mengurangi sampah plastik, memperindah ruangan, dan melatih kreativitas. Namun, pembuatannya membutuhkan ketelitian dalam membentuk bunga serta perhatian terhadap keamanan lampu. Plastik harus dijauhkan dari sumber panas dan pemasangan listrik perlu dilakukan dengan bantuan orang dewasa yang memahami kelistrikan.
+        </p>
+      </section>
+      <div class="pc-grid">
+        <section class="pc-card">
+          <span class="pc-eyebrow">Alat dan bahan yang dibutuhkan:</span>
+          <h2>Alat dan bahan:</h2>
+          <ul class="pc-list">
+            <li>Gunting untuk memotong botol plastik.</li>
+            <li>utter untuk membantu membentuk botol (gunakan dengan bantuan orang dewasa).</li>
+            <li>Penggaris untuk mengukur bahan.</li>
+            <li>Lem tembak untuk merekatkan hiasan.</li>
+            <li>Spidol untuk membuat pola.</li>
+            <li>Tang untuk membantu pemasangan komponen jika diperlukan.</li>
+          </ul></section>
+
+      <section class="pc-card">
+        <span class="pc-eyebrow">Cara membuat<span>
+          <h2>Langkah pembuatan</h2>
+          <ol class="pc-list numbered"
+          ><li>Siapkan botol plastik bekas, lampu LED, kabel, fitting, penyangga, dan bahan lainnya.</li>
+          <li>Cuci botol hingga bersih, lepaskan labelnya, lalu keringkan.</li>
+          <li>Gambar pola bunga pada bagian botol plastik menggunakan spidol.</li>
+          <li>Potong botol mengikuti pola yang telah dibuat untuk membentuk kelopak bunga.</li>
+          <li>Lipat atau bentuk potongan plastik secara perlahan hingga menyerupai bunga. Rapikan bagian tepinya agar tidak tajam.</li>
+          <li>Warnai bunga menggunakan pilox biru sesuai desain. Lakukan di tempat terbuka dan ikuti petunjuk penggunaan produk dengan bantuan orang dewasa.</li>
+          <li>Setelah cat kering, susun dan rekatkan bunga plastik pada bagian penyangga sesuai desain yang diinginkan.</li>
+          <li>Tempatkan lampu LED pada posisi yang sesuai agar cahaya dapat menerangi bunga plastik. Gunakan lampu LED berdaya rendah yang tidak mudah panas.</li>
+          <li>9.	Periksa susunan bunga dan pastikan semua bagian terpasang dengan kuat serta tidak menghalangi sumber cahaya</li>
+          <li>Pastikan lampu dan kabel terpasang dengan aman. Untuk pemasangan kabel, fitting, sakelar, dan steker, mintalah bantuan orang dewasa yang memahami kelistrikan.</li>
+          <li>Lampu hias dari botol plastik bekas siap digunakan sebagai dekorasi ruangan.</li>
+        </ol>
+      </section>
+      <section class="pc-price">
+        <div>
+          <span class="pc-eyebrow">Estimasi biaya</span>
+          <h2>Modal dan harga jual</h2>
+            <p>Harga tersebut merupakan perkiraan dan dapat berbeda sesuai ketersediaan. Estimasi ini menggunakan alat yang dipunyai.</p>
+        </div>
+        <dl>
+          <div>
+            <dt>Botol plastik bekas</dt>
+            <dd>Gratis-Rp3.000</dd>
+          </div>
+          <div>
+            <dt>Lampu LED</dt>
+            <dd>Rp15.000-Rp20.000</dd>
+          </div>
+          <div>
+            <dt>Kabel dan fiting lampu</dt>
+            <dd>Rp15.000-Rp20.000</dd>
+          </div>
+          <div>
+            <dt>Pilox warna biru</dt>
+            <dd>Rp20.000-Rp35.000</dd>
+          </div>
+          <div>
+            <dt>Lem tembak</dt>
+            <dd>Rp5.000</dd>
+          </div>
+          <div>
+            <dt>Sakelar dan steker</dt>
+            <dd>Rp10.000-Rp15.000</dd>
+          </div>
+          <div>
+            <dt>Perkiraan biaya produksi</dt>
+            <dd>Rp80.000-Rp98.000</dd>
+          </div>
+          <div>
+            <dt>Kisaran harga jual</dt>
+            <dd>Rp110.000-Rp120.000</dd>
+          </div>
+        </dl>
+      </section>
+      <aside class="pc-takeaway"><i class="fas fa-leaf" aria-hidden="true"></i><p>Pastikan proses pemotongan, pengecatan dan pengeleman dilakukan dengan hati-hati.</p></aside>
+    </main>
+    <a href="../index.html" class="btn-back pc-back">← Kembali ke Beranda</a>
+  </div>
+  
+  <footer class="footer">
+  <div class="footer-container">
+    <div class="footer-brand">
+      <img src="../assets/gambar/logo.png" alt="Logo" class="footer-logo">
+      <h3>bekas Jadi Berkelas</h3>
+      <p>Website edukasi dan inovasi untuk proyek kolaboratif Kelompok 1.</p>
+    </div>
+
+    <div class="footer-team">
+      <h4>Anggota Kelompok</h4>
+      <div class="member-footer">
+        <h5>Rachel</h5>
+        <div class="social-icons">
+          <a href="https://www.instagram.com/micellinnaaa?psln=MWdoaTIzdjlydWNjMg==" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="https://wa.me/081385525293" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+          <a href="mailto:mischelina@gmail.com" aria-label="Kirim email"><i class="fas fa-envelope"></i></a>
+        </div>
+      </div>
+
+      <div class="member-footer">
+        <h5>Reflin dias Adi Pratama</h5>
+        <div class="social-icons">
+          <a href="https://instagram.com/riz_456d" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="https://wa.me/6282326744030" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+          <a href="mailto:rizkymustafa21@gmail.com" aria-label="Kirim email"><i class="fas fa-envelope"></i></a>
+        </div>
+      </div>
+
+      <div class="member-footer">
+        <h5>Meisya Ardina Candra</h5>
+        <div class="social-icons">
+          <a href="https://instagram.com/pat4_li" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="https://wa.me/6283844173959" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+          <a href="mailto:wahyu.p25137@satamail.my.id" aria-label="Kirim email"><i class="fas fa-envelope"></i></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-contact" id="kontak">
+      <h4>Hubungi Kami</h4>
+      <p><i class="fas fa-map-marker-alt"></i>Jl. Darun Naim Karangduren, Kec. Tengaran 50775 Kab. Semarang, Jawa Tengah</p>
+      <p><i class="fas fa-envelope"></i><a href="mailto:rachel.p25101@satamail.my.id">mischelina@gmail.com</a></p>
+      <p><i class="fas fa-phone"></i><a href="tel:+6281385525293">+62 813-8552-5293</a></p>
+    </div>
+  </div>
+  
+  <div class="footer-bottom"><p>© 2026 <strong>Bekas Jadi Berkelas</strong> · Kelompok 1 · SMKN Tengaran.</p></div>
+</footer>
+ </body>
+</html>
